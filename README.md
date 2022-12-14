@@ -1,14 +1,5 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -51,7 +42,7 @@ To take this course, you will need a registered account on Baskerville. Details 
 
 ### Prerequisites
 
-This course is for complete beginners, however some familiarity with the following may be beneficial:
+This course is for beginners, however some familiarity with the following may be beneficial:
 
 - Python
 - Jupyter notebooks
@@ -94,18 +85,3 @@ Project Link: [https://github.com/baskerville-hpc/data-engineering](https://gith
 Baskerville is funded by the EPSRC and UKRI through the World Class Labs scheme (EP/T022221/1) and the Digital Research Infrastructure programme (EP/W032244/1).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/baskerville-hpc/data-engineering.svg?style=for-the-badge
-[contributors-url]: https://github.com/baskerville-hpc/data-engineering/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/baskerville-hpc/data-engineering.svg?style=for-the-badge
-[forks-url]: https://github.com/baskerville-hpc/data-engineering/network/members
-[stars-shield]: https://img.shields.io/github/stars/baskerville-hpc/data-engineering.svg?style=for-the-badge
-[stars-url]: https://github.com/baskerville-hpc/data-engineering/stargazers
-[issues-shield]: https://img.shields.io/github/issues/baskerville-hpc/data-engineering.svg?style=for-the-badge
-[issues-url]: https://github.com/baskerville-hpc/data-engineering/issues
-[license-shield]: https://img.shields.io/github/license/baskerville-hpc/data-engineering.svg?style=for-the-badge
-[license-url]: https://github.com/baskerville-hpc/data-engineering/blob/main/LICENSE.md
