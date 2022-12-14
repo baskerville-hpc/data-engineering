@@ -26,9 +26,8 @@ Training resources for Accelerating Data Engineering Pipelines on Baskerville HP
 
 1. Setting up your environment on Baskerville
 2. Data on the Hardware Level with Pandas, cuDF and Dask
-3. ETL with NVTabular
-4. Data Visualisation with Plotly
-5. Final Challenge
+3. Data Visualisation with Plotly
+4. Final Challenge
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
