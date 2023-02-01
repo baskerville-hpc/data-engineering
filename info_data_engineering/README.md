@@ -8,7 +8,7 @@ This folder will contain the materials for the Data Engineering workshop to be d
 
 **Workshop time:** 11:00 – 16:30 
 
-**Workshop location:** TBC
+**Workshop location:** Enigma Room, Alan Turing Institute, London
 
 **Number of participants:** maximum 16 accounts, 2 GPUs per account.
 
@@ -32,14 +32,14 @@ This folder will contain the materials for the Data Engineering workshop to be d
 | **13:30 – 16:30** |  **Accelerating Data Engineering Pipelines** (15:00 break) | **Jenny** |
 | 16:30 – 17:00 |  Close                                    |         |
 
-The 5 notebooks with the fastest GPU performance (`challenge_notebook.ipynb`) will win a Baskerville goodybag!
+Compete to create notebooks with the fastest GPU performance (`challenge_notebook.ipynb`)!
 
 ## Project structure
 
 > :warning: Please do not alter the project structure, otherwise auto-marking for this challenge will fail.
 
 ```bash
-data_engineering_info/
+info_data_engineering/
     environment/
     images/
     data/
@@ -61,15 +61,16 @@ data_engineering_info/
 - `fetch_data.sh` will pull real time CSV files from the [NOAA website](https://www.ncei.noaa.gov/data/coop-hourly-precipitation/v2/archive/) into `data`
 - `README.md` is this readme file
 
-## Authors
+## Acknowledgements
 
 - [Jenny Wong](https://github.com/jnywong) - Research Software Engineer, University of Birmingham
 - [James Allsopp](https://github.com/JamesAllsopp) - Research Software Engineer, University of Birmingham
-- [Simon Hartley](https://github.com/sihart25) - Research Software Engineer, University of Birmingham
 - [Gavin Yearwood](https://github.com/gyear ) - Research Application Specialist, University of Birmingham
+- [Simon Hartley](https://github.com/sihart25) - Research Software Engineer, University of Birmingham
 - James Carpenter - Research Application Specialist, University of Birmingham
+- [Jim Madge](https://github.com/JimMadge) - Research Software Engineer, The Alan Turing Institute
 - [Baskerville](https://github.com/baskerville-hpc)
 
 ## License
 
-Note: details to be confirmed with NVIDIA. Materials should not be shared publicly.
+Materials are owned by NVIDIA should not be shared publicly.
